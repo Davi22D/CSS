@@ -1,0 +1,102 @@
+* {
+    margin: 20px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(0, 255, 42);
+
+}
+
+/* p {
+    color: blue;
+}
+p:hover {
+    color: red;
+} */
+
+.radio:enabled {
+    height: 20px;
+    width: 20px;
+}
+
+.radio:checked {
+    height: 50px;
+    width: 50px;
+}
+
+.text:focus {
+    border: 2px solid red;
+    outline: none;
+}
+
+.read:read-only {
+    outline: none;
+    border: 2px solid rgb(252, 103, 202);
+    border-radius: 5px;
+    background-color: rgb(189, 194, 214);
+}
+
+.container {
+    width: 100px;
+    height: 100px;
+    background: pink;
+}
+
+.container:empty
+
+/*quando está vazio*/
+    {
+    background-color: red;
+}
+
+li {
+    list-style-type: none;
+    font-size: 20px;
+}
+
+li:first-child {
+    color: blue;
+}
+
+li:last-child {
+    color: rgb(255, 0, 225);
+}
+
+span:first-of-type
+
+/* (primeiro do tipo) */
+    {
+    color: blue;
+}
+
+p:last-of-type {
+    color: red;
+}
+
+p:not(.not) {
+    color: blueviolet;
+    font-style: italic;
+}
+
+ul:not(.ull) {
+    background-color: rgb(253, 253, 170);
+    color: rgb(0, 101, 32);
+}
+
+li:nth-child(4) {
+    color: red;
+}
+
+li:nth-last-child(2)
+
+/*(de cima para baixo) */
+    {
+    color: rgb(129, 58, 0)
+}

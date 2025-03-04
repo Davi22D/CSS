@@ -1,0 +1,38 @@
+h1 {
+    color: #ff00ff;
+    font-size: 62px;
+    font-family: lora, sans-serif;
+    font-weight: lighter;
+    text-shadow: 5px 5px 30px #000000;
+    */ sombras no texto: horizontal "5px", vertical "5px", sólido ou esfumaçado "30px" e por último a cor. */
+}
+
+p {
+    */ Troca a cor da fonte */ color: blue;
+    */ Troca o tamanho da fonte */ font-size: 30px;
+    */ Troca a grossura da fonte */ font-weight: 300;
+    */ diz qual a fonte */ font-family: lora, sans-serif;
+    */ Troca o estilo da fonte */ font-style: italic;
+    */ Espaçamento ntre as linhas da fonte */ line-height: 50px;
+    */ Espaçamento entre letras da fonte */ letter-spacing: 5px;
+    */ Espaçamento entre palavras da fonte */ word-spacing: 20px;
+    */ Alinhamento do texto */ text-align: justify;
+    */ Deixa as letras maiúscula ou minúscula,
+    ou só as primeiras maiúscula */ text-transform: capitalize;
+    */ Coloca uma decoração no texto,
+    linhas etc */ text-decoration: underline;
+}
+
+p {
+    color: blue;
+    font-size: 30px;
+    font-weight: 300;
+    font-family: lora, sans-serif;
+    font-style: italic;
+    line-height: 50px;
+    letter-spacing: 5px;
+    word-spacing: 20px;
+    text-align: justify;
+    text-transform: capitalize;
+    text-decoration: underline;
+} }

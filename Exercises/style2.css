@@ -1,0 +1,56 @@
+* {
+    box-sizing: content-box
+}
+
+
+.box1 {
+    width: 90px;
+    height: 90px;
+    background: #ff0493;
+    margin: 20px;
+}
+
+.box2 {
+    width: 50px;
+    height: 50px;
+    background: #ff45f434;
+    margin: 60px;
+    padding: 60px 30px;
+}
+
+
+/*
+ Atalho 1 margin e padding: 10px 20px 10px 20px relógio: os 4 valores em uma linha só: top - right - bottom - left (cima - direita - baixo - esquerda) */
+/*
+Atalho 2 margin e padding: 10px 50px 10px dica relógio: os 3 valores em uma linha só: top - right e left - bottom (cima - direita e esquerda - baixo) 
+
+Atalho 3 margin e padding: 10px 50px dica relógio: os 2 valores em uma linha só: top e bottom - right e left (cima e baixo - direita e esquerda)
+*/
+
+/* box sizing */
+
+b
+.box3 {
+    width: 100px;
+    height: 100px;
+    background: #ff0493;
+    padding: 150px;
+    border: 20px solid #508884;
+}
+
+.box {
+    background-color: #0059ff;
+    height: 70px;
+    width: 70px;
+    margin: 20px;
+    
+}
+
+.box5 {
+    background-color: #fbff06;
+
+}
+
+.box6 {
+    background-color: #00dd93;
+}
