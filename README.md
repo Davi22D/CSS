@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="#round_pushpin-Desafio-1">Desafio 1</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#round_pushpin-Desafio-2">Desafio 2</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#construction_worker-installation">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#bug-issues">Issues</a>&nbsp;&nbsp;&nbsp;
 </p>
@@ -31,7 +31,7 @@
 <br>
 
 
-## :computer: Technologies
+## :round_pushpin: Desafio 2
 
 - [ReactJS](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
