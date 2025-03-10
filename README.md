@@ -33,21 +33,12 @@
 
 ## :round_pushpin: Desafio 2
 
-- [ReactJS](https://reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Jest](https://jestjs.io/)
-- [Enzyme](https://enzymejs.github.io/enzyme/)
-- [Cypress](https://www.cypress.io/)
-- [Styled Components](https://styled-components.com/)
-- [Eslint](https://eslint.org/)
-- [Prettier](https://prettier.io/)
-- [Date-fns](https://date-fns.org/)
-- [Polished](https://polished.js.org/)
-- [Husky](https://github.com/typicode/husky/)
-- [Netlify](https://www.netlify.com/)
-- [CircleCi](https://circleci.com/developer/)
-
-
+<p><b>Esse projeto foi criando com foco em css para práticar textos, padding e margin, box-sizing e display.</b></p>
+<br>
+<br>
+<img src="https://github.com/Davi22D/Css-exercises/blob/main/DESAFIO%20CSS/Desktop-positive.png?raw=true" >
+<br>
+<br>
 <br>
 
 # :construction_worker: Installation
@@ -89,12 +80,6 @@ Run the following command in order to start the application in a development env
 
 <br>
 
-
-# :bug: Issues
-
-Feel free to **file a new issue** with a respective title and description on the [Origin Take-Home Assignment](https://github.com/rodolfomori/frontend-take-home-assignment/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!.
-
-<br>
 
 
 
