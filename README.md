@@ -15,7 +15,7 @@
 <p align="center">
   <a href="#round_pushpin-Desafio-1">Desafio 1</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#round_pushpin-Desafio-2">Desafio 2</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#construction_worker-installation">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="round_pushpin-Desafio-2">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#bug-issues">Issues</a>&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -41,13 +41,20 @@
 <br>
 <br>
 
-# :construction_worker: Installation
+## :round_pushpin: Desafio 3
+
+<p><b>Este projeto foi criando com foco em css para práticar textos, seletores, unidades de medidas, padding e margin, box-sizing, display, position, pseudos e responsividade.</b></p>
+<br>
+<br>
+<img src="https://github.com/Davi22D/Css-exercises/blob/main/Projetos%20CSS/Desktop-Easy.png?raw=true" >
+<br>
 
 **You need to install [Node.js](https://nodejs.org/en/download/) first, then in order to clone the project via HTTPS, run this command:**
 
 ```$ git clone https://github.com/rodolfomori/frontend-take-home-assignment.git```
 
 <br>
+
 
 **Install dependencies**
 
