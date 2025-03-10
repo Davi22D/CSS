@@ -23,7 +23,7 @@
 
 ## :round_pushpin: Desafio 1
 
-<p><b>Esse projeto foi criando com foco em css para práticar textos, padding e margin, box-sizing e display.</b></p>
+<p><b>Este projeto foi criando com foco em css para práticar textos, padding e margin, box-sizing e display.</b></p>
 <br>
 <br>
 <img src="https://github.com/Davi22D/Css-exercises/blob/main/DESAFIO%20CSS/Desktop-positive.png?raw=true" >
@@ -33,10 +33,10 @@
 
 ## :round_pushpin: Desafio 2
 
-<p><b>Esse projeto foi criando com foco em css para práticar textos, padding e margin, box-sizing e display.</b></p>
+<p><b>Este projeto foi criando com foco em css para práticar textos, seletores, unidades de medidas, padding e margin, box-sizing e display.</b></p>
 <br>
 <br>
-<img src="https://github.com/Davi22D/Css-exercises/blob/main/DESAFIO%20CSS/Desktop-positive.png?raw=true" >
+<img src="https://github.com/Davi22D/Css-exercises/blob/main/Projetos%20CSS/Desktop-wecare.png?raw=true" >
 <br>
 <br>
 <br>
