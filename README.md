@@ -79,19 +79,3 @@ All test
 
 <br>
 
-# :runner: Getting Started
-
-Run the following command in order to start the application in a development environment:
-
-```$ npm run dev```
-
-<br>
-
-
-
-
-
-
-Made with ♥ by Rodolfo Mori :wave: [Get in touch!](https://www.linkedin.com/in/rodolfomori/)
-t
-</body>
