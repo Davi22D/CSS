@@ -15,7 +15,7 @@
 <p align="center">
   <a href="#round_pushpin-Desafio-1">Desafio 1</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#round_pushpin-Desafio-2">Desafio 2</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="round_pushpin-Desafio-2">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#round_pushpin-Desafio-3">Desafio 3</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#bug-issues">Issues</a>&nbsp;&nbsp;&nbsp;
 </p>
 
