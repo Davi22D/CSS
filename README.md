@@ -1,4 +1,4 @@
-<h1 align="center">
+<<body background-color="#ffooff" > <h1 align="center">
  Desafios 
   <br>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
@@ -87,3 +87,4 @@ Run the following command in order to start the application in a development env
 
 Made with ♥ by Rodolfo Mori :wave: [Get in touch!](https://www.linkedin.com/in/rodolfomori/)
 t
+</body>
