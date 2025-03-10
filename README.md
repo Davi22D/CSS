@@ -57,4 +57,14 @@
 <img src="https://github.com/Davi22D/CSS/blob/main/Projetos%20CSS/2%20(1).png?raw=true" >
 <img src="https://github.com/Davi22D/CSS/blob/main/Projetos%20CSS/3%20(1).png?raw=true"  >
 
+<br>
 
+## :computer: Tecnologias Utilizadas:
+<div img align="left"> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css">
+</div>
+<br>
+<br>
+
+Made by Davi Izidoro do Nascimento :wave: [Entre em contato!](https://www.linkedin.com/in/davi-izidoro/)
