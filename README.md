@@ -16,7 +16,7 @@
   <a href="#round_pushpin-Desafio-1">Desafio 1</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#round_pushpin-Desafio-2">Desafio 2</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#round_pushpin-Desafio-3">Desafio 3</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#bug-issues">Issues</a>&nbsp;&nbsp;&nbsp;
+  <a href="#bug-issues">Responsividade</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -49,33 +49,7 @@
 <img src="https://github.com/Davi22D/Css-exercises/blob/main/Projetos%20CSS/Desktop-Easy.png?raw=true" >
 <br>
 
-**You need to install [Node.js](https://nodejs.org/en/download/) first, then in order to clone the project via HTTPS, run this command:**
-
-```$ git clone https://github.com/rodolfomori/frontend-take-home-assignment.git```
-
-<br>
+## :round_pushpin: Responsividade
 
 
-**Install dependencies**
-
-```$ npm install```
-
-<br>
-
-**Run Tests**
-
-Unit test with Jest and Enzyme
-<br>
-```$ npm run test:jest```
-<br>
-<br>
-E2E test with Cypress
-<br>```$ npm run test:e2e```
-<br>
-<br>
-All test
-<br>
-```$ npm run test```
-
-<br>
 
