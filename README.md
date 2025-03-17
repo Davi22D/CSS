@@ -54,8 +54,8 @@
 <p><b>Modelo de todos os projetos em CSS com responsividade, em formato mobile.</b></p>
 <br>
 <img  display="flex" align="center" src="https://github.com/Davi22D/CSS/blob/main/DESAFIO%20CSS/1%20(1).png?raw=true" >
-<img src="https://github.com/Davi22D/CSS/blob/main/Projetos%20CSS/2%20(1).png?raw=true" >
-<img src="https://github.com/Davi22D/CSS/blob/main/Projetos%20CSS/3%20(1).png?raw=true"  >
+<img  display="flex" align="center"  src="https://github.com/Davi22D/CSS/blob/main/Projetos%20CSS/2%20(1).png?raw=true" >
+<img  display="flex" align="center"  src="https://github.com/Davi22D/CSS/blob/main/Projetos%20CSS/3%20(1).png?raw=true"  >
 
 <br>
 
